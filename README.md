@@ -18,7 +18,7 @@ Get the entire Janex Gateway stack running with a single command:
 ```bash
 # Clone the repository
 git clone https://github.com/janex-ai/janex-gateway.git
-cd mcp-gateway
+cd janex-gateway
 
 docker compose up --build  # or use `make start` cmd
 ```
